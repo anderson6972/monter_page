@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.com/monter_page/static/css/main.30feb143.chunk.css",
-    "main.js": "/github.com/monter_page/static/js/main.f6cd4e63.chunk.js",
-    "main.js.map": "/github.com/monter_page/static/js/main.f6cd4e63.chunk.js.map",
-    "runtime-main.js": "/github.com/monter_page/static/js/runtime-main.85862f8e.js",
-    "runtime-main.js.map": "/github.com/monter_page/static/js/runtime-main.85862f8e.js.map",
-    "static/js/2.224d5b87.chunk.js": "/github.com/monter_page/static/js/2.224d5b87.chunk.js",
-    "static/js/2.224d5b87.chunk.js.map": "/github.com/monter_page/static/js/2.224d5b87.chunk.js.map",
-    "static/js/3.b3703775.chunk.js": "/github.com/monter_page/static/js/3.b3703775.chunk.js",
-    "static/js/3.b3703775.chunk.js.map": "/github.com/monter_page/static/js/3.b3703775.chunk.js.map",
-    "index.html": "/github.com/monter_page/index.html",
-    "static/css/main.30feb143.chunk.css.map": "/github.com/monter_page/static/css/main.30feb143.chunk.css.map",
-    "static/js/2.224d5b87.chunk.js.LICENSE.txt": "/github.com/monter_page/static/js/2.224d5b87.chunk.js.LICENSE.txt"
+    "main.css": "/monter_page/static/css/main.30feb143.chunk.css",
+    "main.js": "/monter_page/static/js/main.f6cd4e63.chunk.js",
+    "main.js.map": "/monter_page/static/js/main.f6cd4e63.chunk.js.map",
+    "runtime-main.js": "/monter_page/static/js/runtime-main.7a7da22a.js",
+    "runtime-main.js.map": "/monter_page/static/js/runtime-main.7a7da22a.js.map",
+    "static/js/2.224d5b87.chunk.js": "/monter_page/static/js/2.224d5b87.chunk.js",
+    "static/js/2.224d5b87.chunk.js.map": "/monter_page/static/js/2.224d5b87.chunk.js.map",
+    "static/js/3.b3703775.chunk.js": "/monter_page/static/js/3.b3703775.chunk.js",
+    "static/js/3.b3703775.chunk.js.map": "/monter_page/static/js/3.b3703775.chunk.js.map",
+    "index.html": "/monter_page/index.html",
+    "static/css/main.30feb143.chunk.css.map": "/monter_page/static/css/main.30feb143.chunk.css.map",
+    "static/js/2.224d5b87.chunk.js.LICENSE.txt": "/monter_page/static/js/2.224d5b87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.85862f8e.js",
+    "static/js/runtime-main.7a7da22a.js",
     "static/js/2.224d5b87.chunk.js",
     "static/css/main.30feb143.chunk.css",
     "static/js/main.f6cd4e63.chunk.js"
